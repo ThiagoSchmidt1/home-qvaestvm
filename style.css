@@ -67,7 +67,7 @@ body p {
     align-items: center;
     justify-content: space-between;
     display: flex;
-    padding: 16px 32px;
+    padding: 8px 32px;
     position: fixed;
     background-color: var(--branco-principal);
     width: 100%;
@@ -849,4 +849,5 @@ footer {
     .button-contato:focus-visible {
         box-shadow: 0 0 0 2px #000;
     }
+
 }
